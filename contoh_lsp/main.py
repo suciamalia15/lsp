@@ -1,8 +1,8 @@
 from penguin import Penguin
-from eagle import eagle
+from eagle import Eagle
 
 eagle = Eagle()
-eagle.fly()
+penguin = Penguin()
 
-penguin = Penguin
+eagle.fly()
 penguin.swim()

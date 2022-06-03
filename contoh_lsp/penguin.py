@@ -1,7 +1,7 @@
-from swimming_bird import swimming_bird
+from swimming_bird import SwimmingBird
 
-class Penguin(swimmingBird):
+class Penguin(SwimmingBird):
 
     def swim(self):
-        print("penguin swim to the ocean")
+        print("Penguin swim to the ocean")
         
